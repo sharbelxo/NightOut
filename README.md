@@ -21,21 +21,20 @@ This application grants back the Lebanese nightlife the worth it carries. With t
 
 ### Home Page
 
-![image](https://user-images.githubusercontent.com/72712113/211374623-370100fa-5c2d-4bb1-a9d4-7a21693feece.png)
+
 
 ### Login Page
 
-![image](https://user-images.githubusercontent.com/72712113/211374877-0aec08bc-6a47-44b9-b4b0-e60f12d394a6.png)
+![image](https://user-images.githubusercontent.com/72712113/211374623-370100fa-5c2d-4bb1-a9d4-7a21693feece.png)
 
 ### NightOut Event Filter
 
-![image](https://user-images.githubusercontent.com/72712113/211375144-b0a51164-e583-44f1-9b90-0accb326feb3.png)
+![image](https://user-images.githubusercontent.com/72712113/211374877-0aec08bc-6a47-44b9-b4b0-e60f12d394a6.png)
 
 ### Venue Event Management System
 
-![image](https://user-images.githubusercontent.com/72712113/211375301-0e05a650-2567-4ff1-9577-0e05fa8a5d26.png)
+![image](https://user-images.githubusercontent.com/72712113/211375144-b0a51164-e583-44f1-9b90-0accb326feb3.png)
 
 ### Buying a Ticket
 
-![Uploading image.png…]()
-
+![image](https://user-images.githubusercontent.com/72712113/211375301-0e05a650-2567-4ff1-9577-0e05fa8a5d26.png)
